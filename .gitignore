@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.streamlit/secrets.toml
+app_1.py
+app_2.py
+tempCodeRunnerFile.py
+test_data.py
